@@ -1,8 +1,5 @@
 #include<stdio.h>
 void main()
 {
-	int n = 10;
-	int s = 20;
-	int c = n+s;
-	printf("Total",c);
+print("hello");
 }
