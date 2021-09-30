@@ -1,14 +1,8 @@
 #include<stdio.h>
 void main()
 {
-	int n;
-	scanf("%d",&n);
-	if(n%2==0)
-	{
-		printf("even");
-	}
-	else
-	{
-		printf("odd");
-	}
+	int n = 10;
+	int s = 20;
+	int c = n+s;
+	printf("Total",c);
 }
